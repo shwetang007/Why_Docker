@@ -33,13 +33,13 @@ So, if you’re new to Docker and want to avoid some of the mistakes I made, thi
 
 I Suggest you that you first go through the  **Read Me First** to have a detailed understanding of what was the concept behind the use of  Docker
 
-## Heartfelt Thanks:
+## Heartfelt Thanks
 
-A heartfelt thanks to the creator **TechWorld with Nana**   
+A heartfelt thanks to the creator **TechWorld with Nana**.
 
 Your guidance was the light in my Docker journey, turning confusion into clarity, like stars guiding a lost traveler.
 
-## RESOURCE:
+## RESOURCE
 
 [Watch this video for a Docker tutorial](https://www.youtube.com/watch?v=3c-iBn73dDE&t=131s)
 
