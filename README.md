@@ -37,8 +37,7 @@ A heartfelt thanks to the creator **TechWorld with Nana**your guidance was the l
 
 ## RESOURCE:
 
-Here’s your hyperlink:
-
 [Watch this video for a Docker tutorial](https://www.youtube.com/watch?v=3c-iBn73dDE&t=131s)
+
 Let’s dive in together and make Docker your new favorite tool!
 
