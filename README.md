@@ -6,6 +6,8 @@ Hey there! Welcome to **Why_Docker**—a beginner-friendly guide where you’ll 
 
 When I first started learning Docker, I was totally confused about how it fits into web development. So, I decided to document everything I learned in the hopes that it makes someone else's learning journey easier. This repo is a mix of what worked for me and some essential tips to help you use Docker for your web projects.
 
+## THIS REPOSITORY IS SOLELY MADE FOR THE PURPOSE OF MAKING THE PERSON UNDERSTAND THE CONCEPTS FASTER IF HE/SHE IS NOT HAVING ENOUGH TIME TO LEARN BY WATCHING VIDEOS.
+
 ## What’s Inside?
 
 - **What is Docker, really?**  
