@@ -31,6 +31,8 @@ To keep it real, I didn’t understand Docker on Day 1. It took me a few tries, 
 
 So, if you’re new to Docker and want to avoid some of the mistakes I made, this guide is for you. You don’t need to know everything upfront—just follow along, and by the end, you’ll have a solid understanding of how Docker can fit into your web development process.
 
+I Suggest you that you first go through the  **Read Me First** to have a detailed understanding of what was the concept behind the use of  Docker
+
 ## Heartfelt Thanks:
 
 A heartfelt thanks to the creator **TechWorld with Nana**your guidance was the light in my Docker journey, turning confusion into clarity, like stars guiding a lost traveler.
