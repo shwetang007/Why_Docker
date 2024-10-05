@@ -35,7 +35,9 @@ I Suggest you that you first go through the  **Read Me First** to have a detaile
 
 ## Heartfelt Thanks:
 
-A heartfelt thanks to the creator **TechWorld with Nana**your guidance was the light in my Docker journey, turning confusion into clarity, like stars guiding a lost traveler.
+A heartfelt thanks to the creator **TechWorld with Nana**   
+
+Your guidance was the light in my Docker journey, turning confusion into clarity, like stars guiding a lost traveler.
 
 ## RESOURCE:
 
